@@ -1,0 +1,72 @@
+{
+   "diploma": {
+      "diploma_de_bacalaureat": [
+         {
+            "serie": "A",
+            "numar": "0000000"
+         },
+         {
+            "firstname": "PETRESCU",
+            "lastname": "GH. LIVIU-FLORIN",
+            "liceu": "CN.FRATII BUZESTI",
+            "localitate": "CRAIOVA",
+            "judet": "DOLJ",
+            "filiera": "TEORETICA",
+            "profil": "REAL",
+            "specializarea": "BIO-CHIMIE",
+            "anul": "2017",
+            "CNP": "1161664605"
+         },
+         {
+            "sesiunea": "IUNIE-IULIE",
+            "anul": "2017",
+            "organizat_de": "LICEUL CN.FRATII BUZESTI",
+            "localitate": "CRAIOVA",
+            "judet": "DOLJ"
+         },
+         {
+            "nr": "514",
+            "anul_eliberarii": "2017",
+            "luna_eliberarii": "IULIE",
+            "ziua_eliberarii": "25",
+            "semnatura_titularului": ""
+         },
+         {
+            "signature": "Semnatura",
+            "function": "Functia",
+            "stamp": "Stampila"
+         }
+      ],
+      "situatia_la_examenul_de_bacalaureat": {
+         "unitatea_de_invatamant": "CN.FRATII BUZESTI",
+         "localitate": "CRAIOVA",
+         "judet": "DOLJ",
+         "sesiune": "IUNIE-IULIE",
+         "anul": "2017",
+         "information": [
+            "A. Evaluarea competentelor lingvistice de comunicare orala in limba romana",
+            "B. Evaluarea competentelor lingvistice in limba (materna)",
+            "C. Evaluarea competentelor lingvistice in limba engleza",
+            "D. Evaluarea competentelor digitale",
+            "E.a. Limba si literatura romana- scris",
+            "E.b. Limba si literatura materna- scris",
+            "E.c Matematica",
+            "E.d. Anatomie si fiziologie umana, genetica si ecologie umana"
+         ]
+      },
+      "rezultate": {
+         "rezultat": "Utilizator Experimentat",
+         "intelegerea_textului_audiat": "B2",
+         "intelegerea_textului_citit": "B2",
+         "producerea_de_mesaje_scrise": "B2",
+         "producerea_de_mesaje_orale": "B2",
+         "interactiune_orala": "B2",
+         "nivel": "75 puncte",
+         "romana_scris": "9.40 (NOUA 40%)",
+         "limba_materna": "-",
+         "matematica": "9.05 (NOUA 5%)",
+         "anatomie": "9.55 (NOUA 55%)",
+         "media_generala": "9.33 (NOUA 33%)"
+      }
+   }
+}

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diploma>
+	<diploma_de_bacalaureat>	
+		<serie> A</serie>
+		<numar>0000000</numar>
+	</diploma_de_bacalaureat>
+	
+	<diploma_de_bacalaureat>
+		<firstname> PETRESCU</firstname>
+		<lastname> GH. LIVIU-FLORIN</lastname>
+		<liceu>CN.FRATII BUZESTI</liceu>
+		<localitate> CRAIOVA </localitate>
+		<judet> DOLJ </judet>
+		<filiera> TEORETICA </filiera>
+		<profil> REAL </profil>
+		<specializarea> BIO-CHIMIE </specializarea>
+		<anul> 2017 </anul>
+		<CNP>1161664605</CNP>
+	</diploma_de_bacalaureat>
+	
+	<diploma_de_bacalaureat>
+	<sesiunea> IUNIE-IULIE </sesiunea>
+	<anul> 2017 </anul>
+	<organizat_de> LICEUL CN.FRATII BUZESTI </organizat_de>
+	<localitate> CRAIOVA </localitate>
+	<judet> DOLJ </judet>
+	</diploma_de_bacalaureat>
+	
+<diploma_de_bacalaureat>
+	<nr> 514 </nr>
+	<anul_eliberarii> 2017 </anul_eliberarii>
+	<luna_eliberarii> IULIE </luna_eliberarii>
+	<ziua_eliberarii> 25 </ziua_eliberarii>
+	<semnatura_titularului> </semnatura_titularului>
+</diploma_de_bacalaureat>
+
+	<situatia_la_examenul_de_bacalaureat>
+		<unitatea_de_invatamant> CN.FRATII BUZESTI </unitatea_de_invatamant>
+		<localitate> CRAIOVA </localitate>
+		<judet> DOLJ </judet>
+		<sesiune> IUNIE-IULIE </sesiune>
+		<anul> 2017 </anul>
+		<information> A. Evaluarea competentelor lingvistice de comunicare orala in limba romana </information>
+		<information> B. Evaluarea competentelor lingvistice in limba (materna) </information>
+		<information> C. Evaluarea competentelor lingvistice in limba engleza </information>
+		<information> D. Evaluarea competentelor digitale </information>
+		<information> E.a. Limba si literatura romana- scris </information>
+		<information> E.b. Limba si literatura materna- scris </information>
+		<information> E.c Matematica </information>
+		<information> E.d. Anatomie si fiziologie umana, genetica si ecologie umana </information>
+	</situatia_la_examenul_de_bacalaureat>
+	
+<rezultate>
+	<rezultat> Utilizator Experimentat </rezultat>
+	<intelegerea_textului_audiat> B2 </intelegerea_textului_audiat>
+	<intelegerea_textului_citit> B2 </intelegerea_textului_citit>
+	<producerea_de_mesaje_scrise> B2 </producerea_de_mesaje_scrise>
+	<producerea_de_mesaje_orale> B2 </producerea_de_mesaje_orale>
+	<interactiune_orala> B2 </interactiune_orala>
+	<nivel> 75 puncte </nivel>
+	<romana_scris> 9.40 (NOUA 40%) </romana_scris>
+	<limba_materna> - </limba_materna>
+	<matematica> 9.05 (NOUA 5%) </matematica>
+	<anatomie> 9.55 (NOUA 55%) </anatomie>
+	<media_generala> 9.33 (NOUA 33%) </media_generala>
+</rezultate>
+
+	<diploma_de_bacalaureat>
+		<signature> Semnatura </signature>
+		<function>  Functia </function>
+		<stamp>  Stampila </stamp>
+	</diploma_de_bacalaureat>
+</diploma>
