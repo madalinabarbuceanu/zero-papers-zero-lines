@@ -1,0 +1,33 @@
+{
+   "diploma_de_doctor": {
+      "diploma": [
+         {
+            "title": "DIPLOMA DE DOCTOR",
+            "serie": "",
+            "numar": "",
+            "information": [
+               "RECTORUL UNIVERSITATII \"BABES-BOLAY\" DIN CLUJ CONSTANTAND CA",
+               "NASCUT IN",
+               "LA DATA DE",
+               "A SUSTINUT TEZA DE DOCORAT LA FACULTATEA DE",
+               "PE BAZA HOTARARII COMISIEI DE DOCTORAT II CONFERA TITUL STIINTIFIC DE DOCTOR",
+               "CLUJ, IN ZIUA DE"
+            ],
+            "name": "Nume",
+            "firstname": "PETRESCU",
+            "lastname": "GH. LIVIU-FLORIN",
+            "localitatea": "CRAIOVA",
+            "judetul": "DOLJ",
+            "birthday": "Data nasterii (zz/ll/aaaa)",
+            "birth_day": "10-09-1941",
+            "facultatea": "AUTOMATICA, CALCULATOARE SI ELECTRONICA",
+            "data": "2.08.1977"
+         },
+         {
+            "signature": "Semnatura",
+            "function": "Functia",
+            "stamp": "Stampila sau sigiliul oficial"
+         }
+      ]
+   }
+}
