@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<formular>
+<pacienti>
+<Nume>Popescu</Nume>
+<Prenume>Ionut</Prenume>
+<Varsta>35</Varsta>
+<Sex>Masculin</Sex>
+<Data_nasterii> 16.11.1981</Data_nasterii>
+<Adresa>Revolutiei</Adresa>
+<Localitate>Arcani</Localitate>
+<Judet>Mehedinti</Judet>
+<Cod_postal>25145</Cod_postal>
+<Temperatura_medicamente>normala</Temperatura_medicamente>
+</pacienti>
+<pacienti>
+<Nume>Ionescu</Nume>
+<Prenume>Mariana</Prenume>
+<Varsta>24</Varsta>
+<Sex>Feminin</Sex>
+<Data_nasterii> 05.03.1993</Data_nasterii>
+<Adresa>Mihai Eminescu</Adresa>
+<Localitate>Plenita</Localitate>
+<Judet>Dolj</Judet>
+<Cod_postal>25178</Cod_postal>
+<Temperatura_medicamente>scazuta</Temperatura_medicamente>
+</pacienti>
+<pacienti>
+<Nume>Marinescu</Nume>
+<Prenume>Flavia</Prenume>
+<Varsta>48</Varsta>
+<Sex>Feminin</Sex>
+<Data_nasterii> 10.10.1968</Data_nasterii>
+<Adresa>Unirii</Adresa>
+<Localitate>Caracal</Localitate>
+<Judet>Olt</Judet>
+<Cod_postal>25784</Cod_postal>
+<Temperatura_medicamente>scazuta</Temperatura_medicamente>
+</pacienti>
+<pacienti>
+<Nume>Abagiu</Nume>
+<Prenume>Andrei</Prenume>
+<Varsta>15</Varsta>
+<Sex>Masculin</Sex>
+<Data_nasterii> 15.04.2002</Data_nasterii>
+<Adresa>Popa Sapca</Adresa>
+<Localitate>Jebel</Localitate>
+<Judet>Timis </Judet>
+<Cod_postal>25475</Cod_postal>
+<Temperatura_medicamente>normala</Temperatura_medicamente>
+</pacienti>
+</formular>
